@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "1c13037fb2d35479",
+    "id": "dd5c429626a0d430",
     "type": "split",
     "children": [
       {
-        "id": "498c704fd8cf6eca",
+        "id": "f404fd03f6e8f965",
         "type": "tabs",
         "children": [
           {
-            "id": "ed04f0fb5648fab8",
+            "id": "d5629bba2d22fd0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKM/Angle bending.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2835b69d5406d68a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKM/Standard Molecular Dynamics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c861057070e4834a",
+    "id": "13c2cde41eade578",
     "type": "split",
     "children": [
       {
-        "id": "733c1dc160b07aa0",
+        "id": "4d1f4b2797a25898",
         "type": "tabs",
         "children": [
           {
-            "id": "74132e4852a2b91d",
+            "id": "160981586f5ee660",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "83ad0c5991462232",
+            "id": "ad6f309b522a0652",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "51768981f5e88b6b",
+            "id": "0fe01ea3fce3ff01",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "a2ffe241239ce8cf",
+    "id": "a8e3945f95f90249",
     "type": "split",
     "children": [
       {
-        "id": "f13c5ecfd4f348d2",
+        "id": "78471ede34ef2a1e",
         "type": "tabs",
         "children": [
           {
-            "id": "82b1319759f54126",
+            "id": "62c407624a235ba7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PKM/Standard Molecular Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "00dbb9075ead55ab",
+            "id": "55c9b41133efd755",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PKM/Standard Molecular Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ccc10fea2c91467e",
+            "id": "c613f6ae56001b86",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +114,11 @@
             }
           },
           {
-            "id": "bc3923d9a0d38bc5",
+            "id": "64bb3d3ceface7a7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PKM/Standard Molecular Dynamics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,9 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2835b69d5406d68a",
+  "active": "d5629bba2d22fd0f",
   "lastOpenFiles": [
-    "PKM/Free Energy Perturbation.md",
-    "PKM/Angle bending.md"
+    "Angle bending.md",
+    "Standard Molecular Dynamics.md",
+    "Van der Waals forces.md",
+    "Integration Algorithm.md",
+    "molecular dynamics.md",
+    "Force Field.md",
+    "Verlet algorithm.md",
+    "Dihedral rotations.md",
+    "Electrostatic interactions.md",
+    "force fields.md",
+    "Transferability.md",
+    "Bond stretching.md"
   ]
 }
